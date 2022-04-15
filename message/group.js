@@ -42,7 +42,7 @@ module.exports = welcome = async (Ramdani, anu) => {
 	            buff = fs.readFileSync(`media/foto/welcome.jpg`) 
                 buttons = [{buttonId: `#`,buttonText:{displayText: 'WELCOME BABU'},type:1}]
                 imageMsg = (await Ramdani.prepareMessageMedia((buff), 'imageMessage', {thumbnail: buff})).imageMessage
-                buttonsMessage = { contentText: `${teks}`, footerText: 'Baca deskripsi dulu kontol langsung masuk aja', imageMessage: imageMsg, buttons: buttons, headerType: 4 }
+                buttonsMessage = { contentText: `${teks}`, footerText: 'Baca deskripsi dulu woi langsung masuk aja', imageMessage: imageMsg, buttons: buttons, headerType: 4 }
                 prep = await Ramdani.prepareMessageFromContent(mdata.id,{buttonsMessage},{})
                 Ramdani.relayWAMessage(prep)
 }
