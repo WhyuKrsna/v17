@@ -1,16 +1,16 @@
 exports.infobot = (prefix) => {
 return`• ----------[ *INFO BOT* ]----------
-• *NAMA BOT :* Ramdani Botz
-• *NOMOR BOT :* 6288296339947
-• *NAMA OWNER :* Ramdani Official
-• *NOMOR OWNER :* 6289512545999
-• *LINK :* wa.me/6289512545999
-• *CREATOR :* RAMDANI OFFICIAL
-• *BASE ORI :* RAMDANI OFFICIAL
+• *NAMA BOT :* Krisna XD
+• *NOMOR BOT :* 6281331945154
+• *NAMA OWNER :* Wahyu Krisna
+• *NOMOR OWNER :* 6287784550689
+• *LINK :* wa.me/6287784550689
+• *CREATOR :* KrisnaXD
+• *BASE ORI :* KrisnaXD
 • *PREFIX :* MULTI PREFIX
 • *FITUR :* 500+
 • *VERSION :* 17.0.0
-• *NOTES :* JIKA ADA YG ERROR FIX SENDIRI, SOALNYA PAKE REST API GUA, JELEK NGAB:)
+• *NOTES :* JIKA ADA YG ERROR, HARAP DI MAKLUMI BOT DALAM TAHAP PENGEMBANGAN :)
 `
 }
 exports.rulesbot = (prefix) => {
@@ -44,7 +44,7 @@ return`━━━━━『 *LIST SEWA BOT* 』━━━━━
 ❏ PERMINGGU : 1MIN. 14K, 2MIN. 28K, 3MIN. 60K,
 ❏ PERBULAN : 1B. 30K, 2B. 70K, 3B. 140K,
 ❏ PERTAHUN : 1THN. 350K, 2THN. 700K,
-❏ PERMANEN : TIMDAK TERSEDIA!
+❏ PERMANEN : TIDAK TERSEDIA!
 `}
 exports.beliprem = (prefix) => {
 return`━━━━━『 *LIST PREMIUM* 』━━━━━
@@ -57,14 +57,9 @@ return`━━━━━『 *LIST PREMIUM* 』━━━━━
 }
 exports.groupbot = (prefix) => {
 return
-`kumpulan link grup bot by Ramdani Official (mastah 😎)
-Link grup 1 = https://chat.whatsapp.com/Gq71DUTFOhRE9efPYyobYu
-Link grup 2 = https://chat.whatsapp.com/I4qx9yNFPXP6cGP7Q1zBhq
-Link grup 3 = https://chat.whatsapp.com/IbGdZllhP0Q92BJrOwvOLK
-Link grup coding bersama = https://chat.whatsapp.com/FR0FmwpBEmQ3HuyF2SIdVQ
-Link grup tes bot = https://chat.whatsapp.com/L8ucMoUQUTt3gKzSvpttbU
-Link grup murid bot = https://chat.whatsapp.com/IyNVUbMxyoSG0Sw0oe6T62
-Link grup saling subscribe = https://chat.whatsapp.com/Dx8VCkqvDSRD5yXXxQ3LK3`
+`kumpulan link grup bot by KrisnaXD (mastah 😎)
+Link grup 1 = https://chat.whatsapp.com/E59dPEIj57M6vFHDYO5zGs
+`
 }
 exports.infomenu = (prefix) => {
 return`*⌜ Info Menu⌟*
