@@ -3,7 +3,7 @@ module.exports.mess = {
 		    dewasa: '─ 「 *WARNING* 」 ─\n\n*ENGLISH*\n_not allowed for minors, if you are an adult, please verify first, type .my18_\n\n*INDONESIA*\n_dilarang untuk anak di bawah umur, jika Anda sudah dewasa, silahkan verifikasi terlebih dahulu, ketik .saya18_',
 		    waitregist: '*ENGLISH*\n_WAIT A MINUTE DECK_\n\n*INDONESIA*\n_TUNGGU SEBENTAR DEK_',
 	        wait: '_Wait Process!..._',
-			success: '_Done, don t forget to subscribe_ : https://youtube.com/channel/UCB157jomCne961WzYHpG4gg',
+			success: '_Done, don t forget to follow : https://instagram.com/wahyu.jr86',
 			wrongFormat: '_Format error, try again!_',
 			error: {
 				api: '_Error, apikey is not found!_',
