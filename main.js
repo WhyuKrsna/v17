@@ -219,7 +219,7 @@ const starts = async (Ramdani = new WAConnection()) => {
       })
     Ramdani.logger.level = 'warn'
 
-	console.log(color(`${spc2}           [ • CREATOR BY RAMDANI OFFICIAL • ]` ,`${randomcolors}`))
+	console.log(color(`${spc2}           [ • CREATOR BY WhyuKrsna • ]` ,`${randomcolors}`))
 console.log(color(`${spc4}                       < ============================================ >`, `${randomcolors}`))
 console.log(color(`${spc3}                    [•]`, `${randomcolors}`), color(`Hai         : KrisnaXD`, `${randomcolors}`))
 console.log(color(`${spc3}                    [•]`, `${randomcolors}`), color(`Bot Version : 17.0.0`, `${randomcolors}`))
@@ -238,9 +238,9 @@ console.log(color(`${spc4}                       < =============================
 	// Menghubungkan
 	fs.existsSync(`./${sessionsname}.json`) && Ramdani.loadAuthInfo(`./${sessionsname}.json`)
 	Ramdani.on('connecting', () => {
-		console.log(color('[ Ramdani Official ]', 'aqua'), color('Menyambungkan!'));
+		console.log(color('[ WhyuKrsna ]', 'aqua'), color('Menyambungkan!'));
 	})
-const ftroli = { key: { fromMe: false, "participant": "0@s.whatsapp.net", "remoteJid": "6289512545999-1604595598@g.us" }, "message": { orderMessage: { itemCount: 500, status: 200, thumbnail: fs.readFileSync(`./media/foto/thumb.jpg`), surface: 200, message: `【 RAMDANI BOTZ 】`, orderTitle: 'Ramdani Official', sellerJid: '0@s.whatsapp.net' } }, contextInfo: { "forwardingScore": 999, "isForwarded": true }, sendEphemeral: true }
+const ftroli = { key: { fromMe: false, "participant": "0@s.whatsapp.net", "remoteJid": "6289512545999-1604595598@g.us" }, "message": { orderMessage: { itemCount: 500, status: 200, thumbnail: fs.readFileSync(`./media/foto/thumb.jpg`), surface: 200, message: `【 KrisnaXD 】`, orderTitle: 'KrisnaXD', sellerJid: '0@s.whatsapp.net' } }, contextInfo: { "forwardingScore": 999, "isForwarded": true }, sendEphemeral: true }
 const spinner = { 
   "interval": 120,
   "frames": [
@@ -296,7 +296,7 @@ const spinner = {
 
 	//connect
 	Ramdani.on('open', () => {
-		console.log(color('[ danzz ]', 'aqua'), color('Connected'));
+		console.log(color('[ WhyuKrsna ]', 'aqua'), color('Connected'));
 	})
 
 	// session
