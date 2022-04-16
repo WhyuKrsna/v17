@@ -309,7 +309,7 @@ const spinner = {
     ]
 
     buttonMessagee = {
-        contentText: `BOT TELAH AKTIF DI NOMOR INI JANGAN LUPA SUBS YT RAMDANI OFFICIAL`,
+        contentText: `BOT TELAH AKTIF DI NOMOR INI JANGAN LUPA FOLLOW IG OWNER :)`,
         footerText: `${fake.FakeReply}`,
         buttons: buttonss,
         headerType: 1
