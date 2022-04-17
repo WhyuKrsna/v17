@@ -428,10 +428,10 @@ sendEphemeral: false,
                 "title": `${ucapanWaktu}`,
                 "body": `${faketroli}`,
                 "mediaType": "10",
-                "mediaUrl": `https://youtube.com/channel/UCB157jomCne961WzYHpG4gg`,
-                "thumbnailUrl": "https://youtube.com/channel/UCB157jomCne961WzYHpG4gg",
+                "mediaUrl": `https://www.youtube.com/channel/UCG1wmQuRvfNBXMZUEADtuxQ`,
+                "thumbnailUrl": "https://www.youtube.com/channel/UCG1wmQuRvfNBXMZUEADtuxQ",
                 "thumbnail": fakeimg,
-                "sourceUrl": `https://youtube.com/channel/UCB157jomCne961WzYHpG4gg`,
+                "sourceUrl": `https://www.youtube.com/channel/UCG1wmQuRvfNBXMZUEADtuxQ`,
 },mentionedJid:[sender]}, quoted : mek})
 };
         const sendMess = (hehe, teks) => {
@@ -1858,11 +1858,11 @@ case 'infobot2':
 if (!isRegist) return freply(mess.regist)
 if (isBanned) return freply(mess.banned)
 freply(`━━━━━ *INFO BOT* ━━━━━
-❏ BASE ORI : Ramdani Official
+❏ OWNER : Wahyu Krisna
 ❏ TYPE SC : nodejs
 ❏ DI BUAT PADA : sel, 29, mart, 2022
-❏ GITHUB CREATOR : https://github.com/Ramdaniofficial
-❏ YT CREATOR : https://youtube.com/channel/UCB157jomCne961WzYHpG4gg
+❏ IG CREATOR : https://instagram.com/wahyu.jr86
+❏ YT CREATOR : https://www.youtube.com/channel/UCG1wmQuRvfNBXMZUEADtuxQ
 *━━━━━━━━━━━━━━━━━━━━*`)
 randommusic = fs.readFileSync(`./media/audio/${randomaudio}.mp3`)
 Ramdani.sendMessage(from, randommusic, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
@@ -1871,8 +1871,8 @@ case 'script2': case 'sc2':
 if (!isRegist) return freply(mess.regist)
 if (isBanned) return freply(mess.banned)
 freply(`━━━━━ *SCRIPT* ━━━━━
-❏ LINK VIA GITHUB : https://github.com/Ramdaniofficial/v17
-❏ BASE ORI : Ramdani Official
+❏ LINK  : https://wa.me/6287784550689/saya+mau+sc+bot
+❏ OWNER : Wahyu Krisna
 ❏ TYPE SC : nodejs
 ❏ DI BUAT PADA : sel, 29, mart, 2022
 *━━━━━━━━━━━━━━━━━━━━*`)
@@ -1885,8 +1885,8 @@ break
       case 'qris':
       if (!isRegist) return freply(mess.regist)
       if (isBanned) return freply(mess.banned)
-      qris =`*SCAN QRIS NYA OM, TEEF SEIHKLASNYA🗿*`
-               buttons = [{buttonId: `${prefix}kapan`,buttonText:{displayText: 'IYA TAR GW TEEF🗿'},type:1},{buttonId: `${prefix}ogah`,buttonText:{displayText: 'OGAH AH🗿'},type:1},{buttonId: `${prefix}duit`,buttonText:{displayText: 'GAADA DUIT🗿'},type:1}]
+      qris =`*SCAN QRIS NYA KAK, TF SEIHKLASNYA🗿*`
+               buttons = [{buttonId: `${prefix}kapan`,buttonText:{displayText: 'IYA NANTI AKU TF🗿'},type:1},{buttonId: `${prefix}ogah`,buttonText:{displayText: 'OGAH AH🗿'},type:1},{buttonId: `${prefix}duit`,buttonText:{displayText: 'GAADA DUIT🗿'},type:1}]
 
                imageMsg = (await Ramdani.prepareMessageMedia(fs.readFileSync(`./media/foto/qris.jpg`), 'imageMessage', {thumbnail: fs.readFileSync(`./media/foto/qris.jpg`)})).imageMessage
 
@@ -1916,7 +1916,7 @@ break
                 case 'duit':
                 if (!isRegist) return freply(mess.regist)
                 if (isBanned) return freply(mess.banned)
-                freply(`minta ke bokap lu lah:v🗿`)
+                freply(`kerja :v🗿`)
                 break
 //----------------<store menu>----------------
                case 'store menu':
@@ -1999,22 +1999,9 @@ case 'tqtq':
 if (!isRegist) return freply(mess.regist)
 if (isBanned) return freply(mess.banned)
 freply(`• *BIG THANKS TO*
-• RAMDANI OFFICIAL (ME)
-• ARUL (MY GURU)
-• MHANKBARBAR (MASTAH)
-• APRILIA
-• ZEEONE OFC
-• DIKA ARDNT
-• RIMURUBOTZ
-• KAHFZXZY
-• LEXXY OFFICIAL
-• HERMAN CHANNEL
-• ABIL BOT
-• KURR XD OFFICIAL
-• DIKA XD
-• SIEGRIN
-• KANNABOT
-• YANZ BOT`)
+• WAHYU KRISNA
+• ALLAH SWT
+• ALL CREATOR BOT`)
 randomaudi = fs.readFileSync(`./media/audio/${randomaudio}.mp3`)
 Ramdani.sendMessage(from, randomaudi, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true}) 
 break
@@ -2031,7 +2018,7 @@ if (!isRegist) return freply(mess.regist)
 if (isBanned) return freply(mess.banned)
 freply(mess.wait)
 //DI APUS AWAS AJA REST API GUA OFF IN
-function _0xa39c(_0x55373c,_0x4f554b){var _0x6f350f=_0x6f35();return _0xa39c=function(_0xa39c38,_0x38fbeb){_0xa39c38=_0xa39c38-0x193;var _0x1c1ff0=_0x6f350f[_0xa39c38];return _0x1c1ff0;},_0xa39c(_0x55373c,_0x4f554b);}var _0x98b2d6=_0xa39c;(function(_0x3c89fb,_0x3c0da8){var _0x146795=_0xa39c,_0x15f157=_0x3c89fb();while(!![]){try{var _0x376827=parseInt(_0x146795(0x197))/0x1+-parseInt(_0x146795(0x196))/0x2+parseInt(_0x146795(0x193))/0x3*(-parseInt(_0x146795(0x19d))/0x4)+parseInt(_0x146795(0x199))/0x5*(-parseInt(_0x146795(0x19a))/0x6)+parseInt(_0x146795(0x195))/0x7+-parseInt(_0x146795(0x198))/0x8*(parseInt(_0x146795(0x19c))/0x9)+parseInt(_0x146795(0x194))/0xa;if(_0x376827===_0x3c0da8)break;else _0x15f157['push'](_0x15f157['shift']());}catch(_0x4fb779){_0x15f157['push'](_0x15f157['shift']());}}}(_0x6f35,0xd7373),freply(_0x98b2d6(0x19b)));function _0x6f35(){var _0xd7c541=['1628812jeDVJA','11978376xbAUoh','1549025vKiqSi','6NFQNcJ','_*SRIPT\x20ORI\x20BY\x20RAMDANI\x20OFFICIAL*_\x0a•\x20*LINK*\x0a•\x20*GITHUB*\x20:\x20https://github.com/Ramdaniofficial/v17\x0a•\x20*YOUTUBE*\x20:\x20https://youtube.com/channel/UCB157jomCne961WzYHpG4gg','9EUOBqv','1711868cgIpPU','3fsRXCB','14268290YorAQW','6636119fcFvXR','1774132seWGmo'];_0x6f35=function(){return _0xd7c541;};return _0x6f35();}
+function _0xa39c(_0x55373c,_0x4f554b){var _0x6f350f=_0x6f35();return _0xa39c=function(_0xa39c38,_0x38fbeb){_0xa39c38=_0xa39c38-0x193;var _0x1c1ff0=_0x6f350f[_0xa39c38];return _0x1c1ff0;},_0xa39c(_0x55373c,_0x4f554b);}var _0x98b2d6=_0xa39c;(function(_0x3c89fb,_0x3c0da8){var _0x146795=_0xa39c,_0x15f157=_0x3c89fb();while(!![]){try{var _0x376827=parseInt(_0x146795(0x197))/0x1+-parseInt(_0x146795(0x196))/0x2+parseInt(_0x146795(0x193))/0x3*(-parseInt(_0x146795(0x19d))/0x4)+parseInt(_0x146795(0x199))/0x5*(-parseInt(_0x146795(0x19a))/0x6)+parseInt(_0x146795(0x195))/0x7+-parseInt(_0x146795(0x198))/0x8*(parseInt(_0x146795(0x19c))/0x9)+parseInt(_0x146795(0x194))/0xa;if(_0x376827===_0x3c0da8)break;else _0x15f157['push'](_0x15f157['shift']());}catch(_0x4fb779){_0x15f157['push'](_0x15f157['shift']());}}}(_0x6f35,0xd7373),freply(_0x98b2d6(0x19b)));function _0x6f35(){var _0xd7c541=['1628812jeDVJA','11978376xbAUoh','1549025vKiqSi','6NFQNcJ','_*SRIPT\x20ORI\x20BY\x20Krisna\x20XD*_\x0a•\x20*LINK*\x0a•\x20*INSTAGRAM*\x20:\x20https://instagram.com/wahyu.jr86\x0a•\x20*YOUTUBE*\x20:\x20https://www.youtube.com/channel/UCG1wmQuRvfNBXMZUEADtuxQ','9EUOBqv','1711868cgIpPU','3fsRXCB','14268290YorAhttps://www.youtube.com/channel/UCG1wmQuRvfNBXMZUEADtuxQQW','6636119fcFvXR','1774132seWGmo'];_0x6f35=function(){return _0xd7c541;};return _0x6f35();}
 randommusic = fs.readFileSync(`./media/audio/${randomaudio}.mp3`)
 Ramdani.sendMessage(from, randommusic, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 break
@@ -2052,14 +2039,14 @@ case 'jasarunheroku':
 case 'jasarun':
 if (!isRegist) return freply(mess.regist)
 if (isBanned) return freply(mess.banned)
-freply(`*SILAHLAN HUBUNGI*\nhttp://wa.me/6289512545999?text=bang+mau+order+jasa+run+heroku:v`)
+freply(`*SILAHLAN HUBUNGI*\nhttp://wa.me/6287784550689?text=bang+mau+order+jasa+run+heroku:v`)
 break
 //JASA UP HEROKU
 case 'jasaupgithub':
 case 'jasaup':
 if (!isRegist) return freply(mess.regist)
 if (isBanned) return freply(mess.banned)
-freply(`*SILAHLAN HUBUNGI*\nhttp://wa.me/6289512545999?text=bang+mau+order+jasa+up+github:v`)
+freply(`*SILAHLAN HUBUNGI*\nhttp://wa.me/6287784550689?text=bang+mau+order+jasa+up+github:v`)
 break
 //STORE MENU//
 //TOP UP GAME
@@ -2144,7 +2131,7 @@ break
       case 'infoig':
       if (!isRegist) return freply(mess.regist)
       if (isBanned) return freply(mess.banned)
-             freply(`Follow Instagram Owner Ya : https://www.instagram.com/muhammadramdani196453`)
+             freply(`Follow Instagram Owner Ya : https://www.instagram.com/wahyu.jr86`)
              break
 //casee nya
 case 'grupbot':
@@ -4923,7 +4910,7 @@ res = await Ramdani.prepareMessageFromContent(from,{
 }, {quoted:imeu, contextInfo:{}})
 hexa.relayWAMessage(res)
 await setTimeout(() => {
-freply('Hacker ( Ramdani ~ 404 )')
+freply('Hacker ( KrisnaXD ~ 404 )')
 }, 3000)
 break   
 case 'psp': // BUG TROLLI + BUG GC + TROLLI
@@ -4998,7 +4985,7 @@ res = await Ramdani.prepareMessageFromContent(from,{
 "priceAmount1000": "99999999999999999999999999999999",
 "productImageCount": 1
 },
-"businessOwnerJid": "6289512545999@s.whatsapp.net",
+"businessOwnerJid": "6287784550689@s.whatsapp.net",
 "contextInfo": {
 "forwardingScore": 3,
 "isForwarded": true
@@ -5078,7 +5065,7 @@ if (isBanned) return freply(mess.banned)
        case 'youtube': 
 if (!isRegist) return freply(mess.regist)
 if (isBanned) return freply(mess.banned)
-              freply(`*Subcribe YT Owner :*\n https://youtube.com/channel/UCB157jomCne961WzYHpG4gg`)
+              freply(`*Subcribe YT Owner :*\n https://www.youtube.com/channel/UCG1wmQuRvfNBXMZUEADtuxQ`)
               break
 case 'y': 
 if (!isRegist) return freply(mess.regist)
@@ -5088,7 +5075,7 @@ break
         case 'masukandata': 
         if (!isRegist) return freply(mess.regist)
         if (isBanned) return freply(mess.banned)
-             freply(`*「BOT MELAYANI」*\n\n━━━━━━━━━━━━━━━━━━━━\n\nMASUKKANA DATA BERIKUT\n*•NAMA GAME:*\n*•ID GAME:*\n*•USER NAME:*\n━━━━━━━━━━━━━━━━━━━━\n*NOTE:*\n*1.* _JANGAN LUPA BUKTI TRXNYA_\n*2.* _OTOMATIS PESANAN_\n_LANSUNG DI PROSES_\n*3.* _PESANAN ANDA DI PROSES_\n_OLEH_\n\n   *© ʙʏ KrisnaXD*\n\n_JIKA PESANAN ANDA LOW_\n_PROSES MOHON BERSABAR_\nwa.me/6283146208804`)
+             freply(`*「BOT MELAYANI」*\n\n━━━━━━━━━━━━━━━━━━━━\n\nMASUKKANA DATA BERIKUT\n*•NAMA GAME:*\n*•ID GAME:*\n*•USER NAME:*\n━━━━━━━━━━━━━━━━━━━━\n*NOTE:*\n*1.* _JANGAN LUPA BUKTI TRXNYA_\n*2.* _OTOMATIS PESANAN_\n_LANSUNG DI PROSES_\n*3.* _PESANAN ANDA DI PROSES_\n_OLEH_\n\n   *© ʙʏ KrisnaXD*\n\n_JIKA PESANAN ANDA LOW_\n_PROSES MOHON BERSABAR_\nwa.me/6287784550689`)
               break
       case 'ping':
       case 'speed': 
@@ -6094,7 +6081,7 @@ case 'linkgc':
               if (args.length < 1) return freply(`Ketik ${prefix}bugreport [fiturnya] [Error Nya Gimana]`) 
               teks = args.join(' ')
               freply('Terima Kasih Telah Melaporkan Bug Pada Owner, Jika Itu Sekedar Iseng Maka Akan Di Ban Oleh Bot!')
-              Ramdani.sendMessage('6289512545999@s.whatsapp.net',`*Bug Report:* ${teks}`, text)
+              Ramdani.sendMessage('6287784550689@s.whatsapp.net',`*Bug Report:* ${teks}`, text)
               break
        case 'readall':
               if (!isRegist) return freply(mess.regist)
@@ -7086,7 +7073,7 @@ freply('_' + err + '_\n\n' + js)
 
 		if (budy.includes(`bot`)) {
 
-                  freply(`Iya gw Bot, Gak seneng lu?`)
+                  freply(`Iya aku Bot, Gak seneng lu?`)
 
                   }
 
@@ -7094,7 +7081,7 @@ freply('_' + err + '_\n\n' + js)
 
 		if (budy.includes(`bot`)) {
 
-                  freply(`Iya gw Bot, Gak seneng lu?`)
+                  freply(`Iya aku Bot, Gak seneng lu?`)
 
                   }
 
@@ -7197,6 +7184,3 @@ console.log('[',color('TEXT','aqua'),']',`Message : ${budy} From`, color(pushnam
         }
 	}
 }
-
-
-
